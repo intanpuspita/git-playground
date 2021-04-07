@@ -3,3 +3,4 @@
 - Nasi Tumpeng
 - Rendang
 - Tongseng ayam
+- Sop ayam
